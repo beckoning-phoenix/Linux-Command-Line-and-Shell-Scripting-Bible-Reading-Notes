@@ -17,5 +17,5 @@
       - The GNU utilities
       - A graphical desktop environment
       - Application software
-      - ![Figure 1-1 The Linux System](./figures/figure1-1.png){:height="25%" width="25%"}
+      - ![Figure 1-1 The Linux System](./figures/figure1-1.png){:height="254px" width="203px"}
    1.  
