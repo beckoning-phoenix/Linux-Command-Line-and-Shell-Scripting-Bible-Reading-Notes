@@ -17,5 +17,10 @@
       - The GNU utilities
       - A graphical desktop environment
       - Application software
-      <img src="./figures/figure1-1.png" width = "203" height = "254" alt="" align=center />
-   1.  
+      <img src="./figures/figure1-1.png" width = "254" height = "203" alt="" align=center />
+   1. Looking into the Linux Kernel 
+      - the kernel is primarily responsible for four main functions:
+        - System memory management
+        - Software program management
+        - Hardware management
+        - Filesystem management 
